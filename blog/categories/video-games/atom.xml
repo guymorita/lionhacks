@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Video Games | My Octopress Blog]]></title>
+  <title><![CDATA[Category: Video Games | Lionhacks]]></title>
   <link href="http://guymorita.github.io//github/blog/categories/video-games/atom.xml" rel="self"/>
   <link href="http://guymorita.github.io//github/"/>
-  <updated>2013-08-14T20:35:21-07:00</updated>
+  <updated>2013-08-14T20:48:51-07:00</updated>
   <id>http://guymorita.github.io//github/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Jousting at GDC!]]></title>
-    <link href="http://guymorita.github.io//github/blog/2012/03/09/jousting-at-gdc/"/>
+    <link href="http://guymorita.github.io//github/2012/03/jousting-at-gdc/"/>
     <updated>2012-03-09T00:00:00-08:00</updated>
-    <id>http://guymorita.github.io//github/blog/2012/03/09/jousting-at-gdc</id>
+    <id>http://guymorita.github.io//github/2012/03/jousting-at-gdc</id>
     <content type="html"><![CDATA[<p>Since moving to SF a week ago, I&rsquo;ve been having the time of my life. If I&rsquo;m only running on 4-hours of sleep a night, I must be right? A new friend of mine, Steven Tran, is the marketing coordinator for the Game Developers Conference which centers around game development, sharing tools, tips and technologies for unbridled professional learning, networking and gaming fun!</p>
 
 <p>Easily one of my favorite games was a music based game (no screen or visuals) called <em><strong>Johann Sebastian Joust</strong></em>. Might I add that it was nominated and won the Innovation Award at the IGF. Here is the description from the site:</p>

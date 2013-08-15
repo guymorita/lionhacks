@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Lionhacks]]></title>
   <link href="http://guymorita.github.io//github/atom.xml" rel="self"/>
   <link href="http://guymorita.github.io//github/"/>
-  <updated>2013-08-14T20:35:21-07:00</updated>
+  <updated>2013-08-14T20:48:51-07:00</updated>
   <id>http://guymorita.github.io//github/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Learning how to code - Why?]]></title>
-    <link href="http://guymorita.github.io//github/blog/2013/06/12/learning-how-to-code-why/"/>
+    <link href="http://guymorita.github.io//github/2013/06/learning-how-to-code-why/"/>
     <updated>2013-06-12T00:00:00-07:00</updated>
-    <id>http://guymorita.github.io//github/blog/2013/06/12/learning-how-to-code-why</id>
+    <id>http://guymorita.github.io//github/2013/06/learning-how-to-code-why</id>
     <content type="html"><![CDATA[After a year of being in SF, I never would have imagined that my path would put me here. It&#8217;s easily been one of the most inspiring and fulfilling years of my life. Before moving here, I had no frameworks for how a technology company was supposed to work or skills to build a product. Sadly, I was one of those that thought that developers were just the people who spoke a complex language (code) and who you told to build stuff. After having helped on the product side to launch a mobile game, contributing as a product manager to 3 mobile apps (one of them from concept to launch) pulling in over 20M in revenue, watching many of my close friends create successful companies/products from simple ideas and lastly having jumped into code myself, I now understand how fundamentally important having knowledge of code is for anyone looking to work in technology. In this post, I&#8217;d like to walk you through some of my driving thoughts in my decision to learn how to code and why I chose a bootcamp.
 <h3>Being a better tech founder</h3>
 It&#8217;s very hard to lead and build rapport with developers if you don&#8217;t understand what they&#8217;re doing. When I was running my web marketing company for three years I had a lot of need for development help. I could only handle html/css and the management of content management sites myself. For anything else I needed outside help. When I went to developers for help, I knew little to nothing about what they were saying or how the technologies worked. I didn&#8217;t know the fundamental difference between PHP/Javascript/Ruby/Java/C++ or any other. All I knew was whether or not a web service or program performed it&#8217;s job effectively. Apart from that, I couldn&#8217;t tell if a product/feature should take 2 weeks or 2 hours. I had no understanding of the technologies and thus also had little knowledge of what they were capable of. I thought working with developers was really frustrating because stuff often didn&#8217;t get built the way I had envisioned, roadblocks would seemingly appear out of nowhere to delay the project and things that I thought should be fast often took forever.
@@ -52,9 +52,9 @@ With that I will leave you. I hope it was interesting to walk through my thought
   
   <entry>
     <title type="html"><![CDATA[Jiro Dreams of Sushi is a must see for documentary lovers]]></title>
-    <link href="http://guymorita.github.io//github/blog/2012/09/05/jiro-dreams-of-sushi-is-a-must-see-for-documentary-lovers/"/>
+    <link href="http://guymorita.github.io//github/2012/09/jiro-dreams-of-sushi-is-a-must-see-for-documentary-lovers/"/>
     <updated>2012-09-05T00:00:00-07:00</updated>
-    <id>http://guymorita.github.io//github/blog/2012/09/05/jiro-dreams-of-sushi-is-a-must-see-for-documentary-lovers</id>
+    <id>http://guymorita.github.io//github/2012/09/jiro-dreams-of-sushi-is-a-must-see-for-documentary-lovers</id>
     <content type="html"><![CDATA[<a href="http://www.lionhacks.com/wp-content/uploads/2012/09/sushi.jpg"><img class="alignright size-medium wp-image-205" title="sushi" src="http://www.lionhacks.com/wp-content/uploads/2012/09/sushi-300x168.jpg" alt="" width="300" height="168" /></a>Last night I watched the Jiro Dream of Sushi documentary which has been highly acclaimed by both my friends and other review sites. So what&#8217;s so unique about his sushi over others? For starters, you must make reservations months in advance and the food starts at ¥30,000 ($300). However, this is not for the sake of eliteness or exclusivity, rather it&#8217;s due to extremely high demand. After all, it was the first sushi restaurant with a Michelin Star rating and was recognized by the Japanese government as a living national treasure. His sushi is regarded as levels about any other. At 85, he still comes into work every single day of the week full of energy and loves his work. A feat few can match.
 
 The documentary made a profound impression on me as I tried to see through to his essence. Beneath the art form of sushi and his 70+ years of dedication to his profession, he&#8217;s an artist much like Steve Jobs. He takes extreme care in looking over every aspect of the sushi which comes down to the ingredients, preparation, his team, restaurant ambience, and even the gender and placement of the guests. He&#8217;s spent so much time practicing Kaizen (constant, never-ending improvement) that each of the ingredients require a lifetime of expertise to even know if they&#8217;re of the right quality. His tuna vendor only selects the best from that week&#8217;s single best catch and if there is nothing of high enough grade, he won&#8217;t send anything to Jiro. His rice vendor only delivers to Jiro and when approached by the Hyatt with a very nice offering he replied, &#8220;Why would I sell to you? You don&#8217;t know how to make it right.&#8221; All of Jiro&#8217;s vendor relationships are based on mutual benefit not just for each other, but for delivering high quality to the end user, the customer. Quality is always first.
@@ -69,9 +69,9 @@ I really enjoyed this movie and I&#8217;d highly recommend it to any who wants t
   
   <entry>
     <title type="html"><![CDATA[In 7 days... Created a team, Built a working app in 24 hrs, Won Startup Weekend and Pitched at DEMO]]></title>
-    <link href="http://guymorita.github.io//github/blog/2012/04/22/in-7-days-created-a-team-built-a-working-app-in-24-hrs-won-startup-weekend-pitched-at-demo/"/>
+    <link href="http://guymorita.github.io//github/2012/04/in-7-days-created-a-team-built-a-working-app-in-24-hrs-won-startup-weekend-pitched-at-demo/"/>
     <updated>2012-04-22T00:00:00-07:00</updated>
-    <id>http://guymorita.github.io//github/blog/2012/04/22/in-7-days-created-a-team-built-a-working-app-in-24-hrs-won-startup-weekend-pitched-at-demo</id>
+    <id>http://guymorita.github.io//github/2012/04/in-7-days-created-a-team-built-a-working-app-in-24-hrs-won-startup-weekend-pitched-at-demo</id>
     <content type="html"><![CDATA[The last 7 days were a complete whirlwind of entrepreneurship, team building, game design, mentorship, networking, emotional highs, and of course, no sleep. What began with my friend, Jonathan Fung, coaxing me to cancel my flight home and instead participate in <a href="http://startupweekend.org/">Startup Weekend</a>, ended with one of the best entrepreneurial experiences/exercises I&#8217;ve had in my life. What was most different about this one than all the others was the level of camaraderie and synergy that we had amongst our team. It&#8217;s great to work with people that work as hard as you do and care just as much about the success of a project/company/idea. In this post I hope to take you through the roller coaster that was the last 7 days and some of my lessons learned.
 <h2>MEGA Startup Weekend:</h2>
 SW is a 54-hour event where developers, artists, entrepreneurs and marketers combine their talents to pitch ideas for startup companies, form teams around those ideas, build prototypes/demos, and finally pitch it as a business on Sunday evening. Our event was called MEGA Startup Weekend because of the 120 cities they host the event in, this one was the biggest. Over 300 people signed up for 3 different verticals: Gaming, Mobile, and Robotics. Even despite how cool it sounds I can honestly say I had no idea what to expect going in. And I would not have signed up if my friends hadn&#8217;t pushed me. I&#8217;m going to go into a lot of detail about each step of the whole process so if it gets a little dry, feel free to skip to the next section.
@@ -119,9 +119,9 @@ Thank you to the Startup Weekend team, Ahmed, Aaron, Marc, Franck, Claire and a
   
   <entry>
     <title type="html"><![CDATA[Lessons from a young entrepreneur (Part 2 of 3)]]></title>
-    <link href="http://guymorita.github.io//github/blog/2012/03/31/lessons-from-a-young-entrepreneur-part-2-of-3/"/>
+    <link href="http://guymorita.github.io//github/2012/03/lessons-from-a-young-entrepreneur-part-2-of-3/"/>
     <updated>2012-03-31T00:00:00-07:00</updated>
-    <id>http://guymorita.github.io//github/blog/2012/03/31/lessons-from-a-young-entrepreneur-part-2-of-3</id>
+    <id>http://guymorita.github.io//github/2012/03/lessons-from-a-young-entrepreneur-part-2-of-3</id>
     <content type="html"><![CDATA[<div>
 
 Continuation from <a href="http://www.lionhacks.com/2012/03/lessons-from-a-young-entrepreneur/">Part 1</a>
@@ -158,9 +158,9 @@ Many people that talk about starting companies but don&#8217;t end up following 
   
   <entry>
     <title type="html"><![CDATA[My Morning Blueberry Smoothie]]></title>
-    <link href="http://guymorita.github.io//github/blog/2012/03/23/my-morning-blueberry-smoothie/"/>
+    <link href="http://guymorita.github.io//github/2012/03/my-morning-blueberry-smoothie/"/>
     <updated>2012-03-23T00:00:00-07:00</updated>
-    <id>http://guymorita.github.io//github/blog/2012/03/23/my-morning-blueberry-smoothie</id>
+    <id>http://guymorita.github.io//github/2012/03/my-morning-blueberry-smoothie</id>
     <content type="html"><![CDATA[<a href="http://www.lionhacks.com/wp-content/uploads/2012/03/blueberries.jpg"><img class="alignright size-medium wp-image-102" title="blueberries" src="http://www.lionhacks.com/wp-content/uploads/2012/03/blueberries-300x225.jpg" alt="" width="300" height="225" /></a>Most of you that know me, know that I&#8217;ve had the same breakfast for the past 9 months. I believe that a good morning and breakfast sets you off right to have a good day and week. If you put the right nutrients in your body at the start of the day, you&#8217;ll feel much sharper and have smoother, consistent energy throughout the day, trust me =) Below is my original recipe and it&#8217;s newest evolution, V4.0.
 <h1>Original Recipe:</h1>
 <h3>(actually tastes good! ask anyone that&#8217;s tried it)</h3>
@@ -244,9 +244,9 @@ Please let me know if you try this out and what new variations you like! I&#8217
   
   <entry>
     <title type="html"><![CDATA[Excerpt from Brad Blanton's Radical Honesty]]></title>
-    <link href="http://guymorita.github.io//github/blog/2012/03/22/excerpt-from-brad-blantons-radical-honesty/"/>
+    <link href="http://guymorita.github.io//github/2012/03/excerpt-from-brad-blantons-radical-honesty/"/>
     <updated>2012-03-22T00:00:00-07:00</updated>
-    <id>http://guymorita.github.io//github/blog/2012/03/22/excerpt-from-brad-blantons-radical-honesty</id>
+    <id>http://guymorita.github.io//github/2012/03/excerpt-from-brad-blantons-radical-honesty</id>
     <content type="html"><![CDATA[<blockquote>
 <div>Because of being lost in our own minds we fail to recognize that truth changes. When the truth changes and we fail to recognize what has now become true, while holding on to the idea of what used to be true, we become liars committing suicide. If at 8pm I am mad at you and get quite worked up over it and you get mad back, but we talk about it. And we stay committed to the conversation and to the possibility of getting over our anger, there is a good chance that by 8:45pm, we can laugh, have a drink and not be angry anymore. It was true that I hated your guts at 8pm. It was no longer true somewhere between 8:20pm and 8:45pm. In contrast, people who live according to principles like I hated you then and for good reason so I still hate you now, can&#8217;t get over things.</div></blockquote>
 <blockquote>
@@ -256,9 +256,9 @@ Please let me know if you try this out and what new variations you like! I&#8217
   
   <entry>
     <title type="html"><![CDATA[Lessons from a young entrepreneur (Part 1 of 3)]]></title>
-    <link href="http://guymorita.github.io//github/blog/2012/03/15/lessons-from-a-young-entrepreneur/"/>
+    <link href="http://guymorita.github.io//github/2012/03/lessons-from-a-young-entrepreneur/"/>
     <updated>2012-03-15T00:00:00-07:00</updated>
-    <id>http://guymorita.github.io//github/blog/2012/03/15/lessons-from-a-young-entrepreneur</id>
+    <id>http://guymorita.github.io//github/2012/03/lessons-from-a-young-entrepreneur</id>
     <content type="html"><![CDATA[The last 2 years of my professional life were almost completely devoted to building a company. The experience has been nothing short of surreal with swings up and down that resemble a roller coaster ride. The business which I started with less than $1,000 and no funding, grew to over $700,000 in revenue and created over 16 full-time jobs worldwide in 4 countries. Not the fastest growth that’s ever been seen, but certainly not the slowest.
 
 Instead of thinking of the situation as a success or failure, I’ve treated the experience as a series of lessons. These lessons I’d like to share so that hopefully others can learn or refine these ideas and get value from them. All are from my personal experience and should be taken with a grain of salt.
@@ -301,9 +301,9 @@ Solid leadership, equity incentives, aligned values and a clear vision can help 
   
   <entry>
     <title type="html"><![CDATA[How to sell everything you own and move to a new city in 4 weeks without a job lined up]]></title>
-    <link href="http://guymorita.github.io//github/blog/2012/03/11/how-to-sell-everything-you-own-and-move-to-a-new-city-in-4-weeks-without-a-job-lined-up/"/>
+    <link href="http://guymorita.github.io//github/2012/03/how-to-sell-everything-you-own-and-move-to-a-new-city-in-4-weeks-without-a-job-lined-up/"/>
     <updated>2012-03-11T00:00:00-08:00</updated>
-    <id>http://guymorita.github.io//github/blog/2012/03/11/how-to-sell-everything-you-own-and-move-to-a-new-city-in-4-weeks-without-a-job-lined-up</id>
+    <id>http://guymorita.github.io//github/2012/03/how-to-sell-everything-you-own-and-move-to-a-new-city-in-4-weeks-without-a-job-lined-up</id>
     <content type="html"><![CDATA[I recently moved to SF on the 1st of March and it&#8217;s been the best experience I could have asked for. But before moving here I had to make a whole bunch of tough decisions and was honestly pretty damn stressed out and nervous about the whole thing. As some of you already may know I still own my web marketing / social media company and have 4 employees in asia; however at this point it&#8217;s only breaking even so I effectively don&#8217;t have income.
 
 Below is an overview of my thought process in making the decision, some of the emotions I went through and some tips on how to actually get it done if you&#8217;re interested.
@@ -352,9 +352,9 @@ I have made a habit to trying to push my friends to try new experiences both in 
   
   <entry>
     <title type="html"><![CDATA[Wisdom from Brian Sharp]]></title>
-    <link href="http://guymorita.github.io//github/blog/2012/03/10/wisdom-from-brian-sharp/"/>
+    <link href="http://guymorita.github.io//github/2012/03/wisdom-from-brian-sharp/"/>
     <updated>2012-03-10T00:00:00-08:00</updated>
-    <id>http://guymorita.github.io//github/blog/2012/03/10/wisdom-from-brian-sharp</id>
+    <id>http://guymorita.github.io//github/2012/03/wisdom-from-brian-sharp</id>
     <content type="html"><![CDATA[I heard one of the most inspiring and insightful speeches of my life yesterday at GDC. So much of it, namely the end, was pure gold. I not only left having learned tons of lessons on how to better manage and build relationships, but with the internalization of his lessons which is something only a truly gifted speaker can do. The speech was from Brian Sharp, Lead Engineer at Bungie. It is easily one of the best speeches I have ever been had the pleasure of sitting in on. It stands even alongside that of Steve Job&#8217;s Stanford Commencement Speech. It was clear from the start that he was one of the most intelligent and gifted individuals I&#8217;ve been in the presence of. Feel free to skip to the bottom if you want to read a transcript of the ending of his speech.
 
 The title for his speech was &#8220;Concrete Practices to Be a Better Leader: Framing &amp; Intention&#8221;. The takeaway was meant to be giving listeners concrete techniques to increase their awareness of frames, to use framing as a tool in more effective conversations, to increase their awareness of the intentions behind their actions and to sculpt that intention into a positive one that will make them &amp; everyone around them happier. I left not only having learned many lessons on intention and framing that will be invaluable in management but also with a lasting emotion and connection with the speaker. He spoke with such truth and sincerity it was almost like poetry. His passion not only for his work but also for people came through in every word.
@@ -398,9 +398,9 @@ And if something I&#8217;ve said this afternoon was helpful to you, thank you ve
   
   <entry>
     <title type="html"><![CDATA[Jousting at GDC!]]></title>
-    <link href="http://guymorita.github.io//github/blog/2012/03/09/jousting-at-gdc/"/>
+    <link href="http://guymorita.github.io//github/2012/03/jousting-at-gdc/"/>
     <updated>2012-03-09T00:00:00-08:00</updated>
-    <id>http://guymorita.github.io//github/blog/2012/03/09/jousting-at-gdc</id>
+    <id>http://guymorita.github.io//github/2012/03/jousting-at-gdc</id>
     <content type="html"><![CDATA[Since moving to SF a week ago, I&#8217;ve been having the time of my life. If I&#8217;m only running on 4-hours of sleep a night, I must be right? A new friend of mine, Steven Tran, is the marketing coordinator for the Game Developers Conference which centers around game development, sharing tools, tips and technologies for unbridled professional learning, networking and gaming fun!
 
 Easily one of my favorite games was a music based game (no screen or visuals) called <em><strong>Johann Sebastian Joust</strong></em>. Might I add that it was nominated and won the Innovation Award at the IGF. Here is the description from the site:

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Entrepreneurship | My Octopress Blog]]></title>
+  <title><![CDATA[Category: Entrepreneurship | Lionhacks]]></title>
   <link href="http://guymorita.github.io//github/blog/categories/entrepreneurship/atom.xml" rel="self"/>
   <link href="http://guymorita.github.io//github/"/>
-  <updated>2013-08-14T20:35:21-07:00</updated>
+  <updated>2013-08-14T20:48:51-07:00</updated>
   <id>http://guymorita.github.io//github/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Learning how to code - Why?]]></title>
-    <link href="http://guymorita.github.io//github/blog/2013/06/12/learning-how-to-code-why/"/>
+    <link href="http://guymorita.github.io//github/2013/06/learning-how-to-code-why/"/>
     <updated>2013-06-12T00:00:00-07:00</updated>
-    <id>http://guymorita.github.io//github/blog/2013/06/12/learning-how-to-code-why</id>
+    <id>http://guymorita.github.io//github/2013/06/learning-how-to-code-why</id>
     <content type="html"><![CDATA[<p>After a year of being in SF, I never would have imagined that my path would put me here. It&rsquo;s easily been one of the most inspiring and fulfilling years of my life. Before moving here, I had no frameworks for how a technology company was supposed to work or skills to build a product. Sadly, I was one of those that thought that developers were just the people who spoke a complex language (code) and who you told to build stuff. After having helped on the product side to launch a mobile game, contributing as a product manager to 3 mobile apps (one of them from concept to launch) pulling in over 20M in revenue, watching many of my close friends create successful companies/products from simple ideas and lastly having jumped into code myself, I now understand how fundamentally important having knowledge of code is for anyone looking to work in technology. In this post, I&rsquo;d like to walk you through some of my driving thoughts in my decision to learn how to code and why I chose a bootcamp.</p>
 
 <h3>Being a better tech founder</h3>
@@ -67,9 +67,9 @@
   
   <entry>
     <title type="html"><![CDATA[In 7 days... Created a team, Built a working app in 24 hrs, Won Startup Weekend and Pitched at DEMO]]></title>
-    <link href="http://guymorita.github.io//github/blog/2012/04/22/in-7-days-created-a-team-built-a-working-app-in-24-hrs-won-startup-weekend-pitched-at-demo/"/>
+    <link href="http://guymorita.github.io//github/2012/04/in-7-days-created-a-team-built-a-working-app-in-24-hrs-won-startup-weekend-pitched-at-demo/"/>
     <updated>2012-04-22T00:00:00-07:00</updated>
-    <id>http://guymorita.github.io//github/blog/2012/04/22/in-7-days-created-a-team-built-a-working-app-in-24-hrs-won-startup-weekend-pitched-at-demo</id>
+    <id>http://guymorita.github.io//github/2012/04/in-7-days-created-a-team-built-a-working-app-in-24-hrs-won-startup-weekend-pitched-at-demo</id>
     <content type="html"><![CDATA[<p>The last 7 days were a complete whirlwind of entrepreneurship, team building, game design, mentorship, networking, emotional highs, and of course, no sleep. What began with my friend, Jonathan Fung, coaxing me to cancel my flight home and instead participate in <a href="http://startupweekend.org/">Startup Weekend</a>, ended with one of the best entrepreneurial experiences/exercises I&rsquo;ve had in my life. What was most different about this one than all the others was the level of camaraderie and synergy that we had amongst our team. It&rsquo;s great to work with people that work as hard as you do and care just as much about the success of a project/company/idea. In this post I hope to take you through the roller coaster that was the last 7 days and some of my lessons learned.</p>
 
 <h2>MEGA Startup Weekend:</h2>
@@ -132,9 +132,9 @@
   
   <entry>
     <title type="html"><![CDATA[Lessons from a young entrepreneur (Part 2 of 3)]]></title>
-    <link href="http://guymorita.github.io//github/blog/2012/03/31/lessons-from-a-young-entrepreneur-part-2-of-3/"/>
+    <link href="http://guymorita.github.io//github/2012/03/lessons-from-a-young-entrepreneur-part-2-of-3/"/>
     <updated>2012-03-31T00:00:00-07:00</updated>
-    <id>http://guymorita.github.io//github/blog/2012/03/31/lessons-from-a-young-entrepreneur-part-2-of-3</id>
+    <id>http://guymorita.github.io//github/2012/03/lessons-from-a-young-entrepreneur-part-2-of-3</id>
     <content type="html"><![CDATA[<div>
 
 Continuation from <a href="http://www.lionhacks.com/2012/03/lessons-from-a-young-entrepreneur/">Part 1</a>
@@ -184,9 +184,9 @@ Continuation from <a href="http://www.lionhacks.com/2012/03/lessons-from-a-young
   
   <entry>
     <title type="html"><![CDATA[Lessons from a young entrepreneur (Part 1 of 3)]]></title>
-    <link href="http://guymorita.github.io//github/blog/2012/03/15/lessons-from-a-young-entrepreneur/"/>
+    <link href="http://guymorita.github.io//github/2012/03/lessons-from-a-young-entrepreneur/"/>
     <updated>2012-03-15T00:00:00-07:00</updated>
-    <id>http://guymorita.github.io//github/blog/2012/03/15/lessons-from-a-young-entrepreneur</id>
+    <id>http://guymorita.github.io//github/2012/03/lessons-from-a-young-entrepreneur</id>
     <content type="html"><![CDATA[<p>The last 2 years of my professional life were almost completely devoted to building a company. The experience has been nothing short of surreal with swings up and down that resemble a roller coaster ride. The business which I started with less than $1,000 and no funding, grew to over $700,000 in revenue and created over 16 full-time jobs worldwide in 4 countries. Not the fastest growth that’s ever been seen, but certainly not the slowest.</p>
 
 <p>Instead of thinking of the situation as a success or failure, I’ve treated the experience as a series of lessons. These lessons I’d like to share so that hopefully others can learn or refine these ideas and get value from them. All are from my personal experience and should be taken with a grain of salt.</p>

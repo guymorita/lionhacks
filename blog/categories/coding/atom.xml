@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Coding | My Octopress Blog]]></title>
+  <title><![CDATA[Category: Coding | Lionhacks]]></title>
   <link href="http://guymorita.github.io//github/blog/categories/coding/atom.xml" rel="self"/>
   <link href="http://guymorita.github.io//github/"/>
-  <updated>2013-08-14T20:35:21-07:00</updated>
+  <updated>2013-08-14T20:48:51-07:00</updated>
   <id>http://guymorita.github.io//github/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Learning how to code - Why?]]></title>
-    <link href="http://guymorita.github.io//github/blog/2013/06/12/learning-how-to-code-why/"/>
+    <link href="http://guymorita.github.io//github/2013/06/learning-how-to-code-why/"/>
     <updated>2013-06-12T00:00:00-07:00</updated>
-    <id>http://guymorita.github.io//github/blog/2013/06/12/learning-how-to-code-why</id>
+    <id>http://guymorita.github.io//github/2013/06/learning-how-to-code-why</id>
     <content type="html"><![CDATA[<p>After a year of being in SF, I never would have imagined that my path would put me here. It&rsquo;s easily been one of the most inspiring and fulfilling years of my life. Before moving here, I had no frameworks for how a technology company was supposed to work or skills to build a product. Sadly, I was one of those that thought that developers were just the people who spoke a complex language (code) and who you told to build stuff. After having helped on the product side to launch a mobile game, contributing as a product manager to 3 mobile apps (one of them from concept to launch) pulling in over 20M in revenue, watching many of my close friends create successful companies/products from simple ideas and lastly having jumped into code myself, I now understand how fundamentally important having knowledge of code is for anyone looking to work in technology. In this post, I&rsquo;d like to walk you through some of my driving thoughts in my decision to learn how to code and why I chose a bootcamp.</p>
 
 <h3>Being a better tech founder</h3>

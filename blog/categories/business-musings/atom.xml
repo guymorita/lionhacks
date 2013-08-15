@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Business Musings | My Octopress Blog]]></title>
+  <title><![CDATA[Category: Business Musings | Lionhacks]]></title>
   <link href="http://guymorita.github.io//github/blog/categories/business-musings/atom.xml" rel="self"/>
   <link href="http://guymorita.github.io//github/"/>
-  <updated>2013-08-14T20:35:21-07:00</updated>
+  <updated>2013-08-14T20:48:51-07:00</updated>
   <id>http://guymorita.github.io//github/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Lessons from a young entrepreneur (Part 2 of 3)]]></title>
-    <link href="http://guymorita.github.io//github/blog/2012/03/31/lessons-from-a-young-entrepreneur-part-2-of-3/"/>
+    <link href="http://guymorita.github.io//github/2012/03/lessons-from-a-young-entrepreneur-part-2-of-3/"/>
     <updated>2012-03-31T00:00:00-07:00</updated>
-    <id>http://guymorita.github.io//github/blog/2012/03/31/lessons-from-a-young-entrepreneur-part-2-of-3</id>
+    <id>http://guymorita.github.io//github/2012/03/lessons-from-a-young-entrepreneur-part-2-of-3</id>
     <content type="html"><![CDATA[<div>
 
 Continuation from <a href="http://www.lionhacks.com/2012/03/lessons-from-a-young-entrepreneur/">Part 1</a>
@@ -67,9 +67,9 @@ Continuation from <a href="http://www.lionhacks.com/2012/03/lessons-from-a-young
   
   <entry>
     <title type="html"><![CDATA[Lessons from a young entrepreneur (Part 1 of 3)]]></title>
-    <link href="http://guymorita.github.io//github/blog/2012/03/15/lessons-from-a-young-entrepreneur/"/>
+    <link href="http://guymorita.github.io//github/2012/03/lessons-from-a-young-entrepreneur/"/>
     <updated>2012-03-15T00:00:00-07:00</updated>
-    <id>http://guymorita.github.io//github/blog/2012/03/15/lessons-from-a-young-entrepreneur</id>
+    <id>http://guymorita.github.io//github/2012/03/lessons-from-a-young-entrepreneur</id>
     <content type="html"><![CDATA[<p>The last 2 years of my professional life were almost completely devoted to building a company. The experience has been nothing short of surreal with swings up and down that resemble a roller coaster ride. The business which I started with less than $1,000 and no funding, grew to over $700,000 in revenue and created over 16 full-time jobs worldwide in 4 countries. Not the fastest growth that’s ever been seen, but certainly not the slowest.</p>
 
 <p>Instead of thinking of the situation as a success or failure, I’ve treated the experience as a series of lessons. These lessons I’d like to share so that hopefully others can learn or refine these ideas and get value from them. All are from my personal experience and should be taken with a grain of salt.</p>

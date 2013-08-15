@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Quotes &amp; Speeches | My Octopress Blog]]></title>
+  <title><![CDATA[Category: Quotes &amp; Speeches | Lionhacks]]></title>
   <link href="http://guymorita.github.io//github/blog/categories/quotes-and-speeches/atom.xml" rel="self"/>
   <link href="http://guymorita.github.io//github/"/>
-  <updated>2013-08-14T20:35:21-07:00</updated>
+  <updated>2013-08-14T20:48:51-07:00</updated>
   <id>http://guymorita.github.io//github/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Excerpt from Brad Blanton's Radical Honesty]]></title>
-    <link href="http://guymorita.github.io//github/blog/2012/03/22/excerpt-from-brad-blantons-radical-honesty/"/>
+    <link href="http://guymorita.github.io//github/2012/03/excerpt-from-brad-blantons-radical-honesty/"/>
     <updated>2012-03-22T00:00:00-07:00</updated>
-    <id>http://guymorita.github.io//github/blog/2012/03/22/excerpt-from-brad-blantons-radical-honesty</id>
+    <id>http://guymorita.github.io//github/2012/03/excerpt-from-brad-blantons-radical-honesty</id>
     <content type="html"><![CDATA[<blockquote>
 <div>Because of being lost in our own minds we fail to recognize that truth changes. When the truth changes and we fail to recognize what has now become true, while holding on to the idea of what used to be true, we become liars committing suicide. If at 8pm I am mad at you and get quite worked up over it and you get mad back, but we talk about it. And we stay committed to the conversation and to the possibility of getting over our anger, there is a good chance that by 8:45pm, we can laugh, have a drink and not be angry anymore. It was true that I hated your guts at 8pm. It was no longer true somewhere between 8:20pm and 8:45pm. In contrast, people who live according to principles like I hated you then and for good reason so I still hate you now, can't get over things.</div></blockquote>
 
@@ -30,9 +30,9 @@
   
   <entry>
     <title type="html"><![CDATA[Wisdom from Brian Sharp]]></title>
-    <link href="http://guymorita.github.io//github/blog/2012/03/10/wisdom-from-brian-sharp/"/>
+    <link href="http://guymorita.github.io//github/2012/03/wisdom-from-brian-sharp/"/>
     <updated>2012-03-10T00:00:00-08:00</updated>
-    <id>http://guymorita.github.io//github/blog/2012/03/10/wisdom-from-brian-sharp</id>
+    <id>http://guymorita.github.io//github/2012/03/wisdom-from-brian-sharp</id>
     <content type="html"><![CDATA[<p>I heard one of the most inspiring and insightful speeches of my life yesterday at GDC. So much of it, namely the end, was pure gold. I not only left having learned tons of lessons on how to better manage and build relationships, but with the internalization of his lessons which is something only a truly gifted speaker can do. The speech was from Brian Sharp, Lead Engineer at Bungie. It is easily one of the best speeches I have ever been had the pleasure of sitting in on. It stands even alongside that of Steve Job&rsquo;s Stanford Commencement Speech. It was clear from the start that he was one of the most intelligent and gifted individuals I&rsquo;ve been in the presence of. Feel free to skip to the bottom if you want to read a transcript of the ending of his speech.</p>
 
 <p>The title for his speech was &ldquo;Concrete Practices to Be a Better Leader: Framing &amp; Intention&rdquo;. The takeaway was meant to be giving listeners concrete techniques to increase their awareness of frames, to use framing as a tool in more effective conversations, to increase their awareness of the intentions behind their actions and to sculpt that intention into a positive one that will make them &amp; everyone around them happier. I left not only having learned many lessons on intention and framing that will be invaluable in management but also with a lasting emotion and connection with the speaker. He spoke with such truth and sincerity it was almost like poetry. His passion not only for his work but also for people came through in every word.</p>

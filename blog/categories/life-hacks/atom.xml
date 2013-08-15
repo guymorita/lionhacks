@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Life Hacks | My Octopress Blog]]></title>
+  <title><![CDATA[Category: Life Hacks | Lionhacks]]></title>
   <link href="http://guymorita.github.io//github/blog/categories/life-hacks/atom.xml" rel="self"/>
   <link href="http://guymorita.github.io//github/"/>
-  <updated>2013-08-14T20:35:21-07:00</updated>
+  <updated>2013-08-14T20:48:51-07:00</updated>
   <id>http://guymorita.github.io//github/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[My Morning Blueberry Smoothie]]></title>
-    <link href="http://guymorita.github.io//github/blog/2012/03/23/my-morning-blueberry-smoothie/"/>
+    <link href="http://guymorita.github.io//github/2012/03/my-morning-blueberry-smoothie/"/>
     <updated>2012-03-23T00:00:00-07:00</updated>
-    <id>http://guymorita.github.io//github/blog/2012/03/23/my-morning-blueberry-smoothie</id>
+    <id>http://guymorita.github.io//github/2012/03/my-morning-blueberry-smoothie</id>
     <content type="html"><![CDATA[<p><a href="http://www.lionhacks.com/wp-content/uploads/2012/03/blueberries.jpg"><img class="alignright size-medium wp-image-102" title="blueberries" src="http://www.lionhacks.com/wp-content/uploads/2012/03/blueberries-300x225.jpg" alt="" width="300" height="225" /></a>Most of you that know me, know that I&rsquo;ve had the same breakfast for the past 9 months. I believe that a good morning and breakfast sets you off right to have a good day and week. If you put the right nutrients in your body at the start of the day, you&rsquo;ll feel much sharper and have smoother, consistent energy throughout the day, trust me =) Below is my original recipe and it&rsquo;s newest evolution, V4.0.</p>
 
 <h1>Original Recipe:</h1>
