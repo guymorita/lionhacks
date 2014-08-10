@@ -4,10 +4,10 @@
   <title><![CDATA[Lionhacks]]></title>
   <link href="http://guymorita.github.io//github/atom.xml" rel="self"/>
   <link href="http://guymorita.github.io//github/"/>
-  <updated>2014-08-10T13:19:21-07:00</updated>
+  <updated>2014-08-10T14:06:35-07:00</updated>
   <id>http://guymorita.github.io//github/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Guy Morita]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -18,7 +18,26 @@
     <link href="http://guymorita.github.io//github/2014/08/objective-c-vs-javascript-vs-python/"/>
     <updated>2014-08-10T13:08:00-07:00</updated>
     <id>http://guymorita.github.io//github/2014/08/objective-c-vs-javascript-vs-python</id>
-    <content type="html"><![CDATA[<p>Herro prease</p>
+    <content type="html"><![CDATA[<p>A little over a year ago I decided to learn how to code. I knew little to nothing about it other than the things I would be able to create and communicate once I knew. I remember diving into Ruby and asking myself &ldquo;what&rsquo;s the point of an array or a hash? how does this relate to building a site?&rdquo;. A couple weeks later I built tic-tac-toe in the console. But I started to hit the point where the learning curve was too steep and to expedite the process I attended Hack Reactor, a programming school in the bay area that focuses on getting talented young developers to a professional level.</p>
+
+<p>Fast forward to now, I&rsquo;ve been a software engineer at Hipmunk for close to a year. I started working mostly in Coffeescript (compiles to Javascript) and have gradually moved to writing entirely Python. I also just finished Codepath which is another coding school and learned how to write Objective-C. I&rsquo;m writing this blog post to bring together my opinions on the languages:</p>
+
+<h3>Debugging</h3>
+
+
+<p>My friend&rsquo;s dad who is also a software engineer was giving advice to my friend for which IDE/Editor to use and his advice was to pick the one that makes debugging the easiest. I didn&rsquo;t fully understand why that was the most important thing until I started to code in Xcode/Objective-C&hellip; cause it&rsquo;s a pain in the ass. At least to start. Xcode will print out huge 50 line errors and you will have no clue what went wrong. On top of that, the interface is extremely opinionated and you basically are forced into doing everything the Apple way. I battled with it for a solid month before I started to appreciate the design patterns and language syntax. I would never recommend it as a first language for someone. Ruby/Python are very similar and equally easy to debug. That said, I think Javascript is the easiest only because of the Chrome debugger (built into Google Chrome). Javascript as a language is fairly ugly and clumsy, but for a newbie developer, the Chrome debugger makes it very easy to step through and interact with your code.</p>
+
+<h3>Purpose</h3>
+
+
+<p>A friend asked me yesterday which my favorite language is and my answer was that it depended on what I was building. I guess I don&rsquo;t have a favorite and I like them each for different reasons. Python is great for anything dealing with data related with libraries like NumPy/SciPy/Pandas making it very easy to munge, analyze and model data. Hipmunk&rsquo;s backend is built in Python and with many other startups such as Dropbox, Eventbrite, Mixpanel, Quora, Pinterest and Yelp to name a few.</p>
+
+<p>Strict typing
+X-code (IDE) vs editor
+Exceptions
+Debugging
+Intuitive
+Python shortcuts</p>
 ]]></content>
   </entry>
   
