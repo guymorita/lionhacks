@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Python | Lionhacks]]></title>
   <link href="http://guymorita.github.io//github/blog/categories/python/atom.xml" rel="self"/>
   <link href="http://guymorita.github.io//github/"/>
-  <updated>2014-08-10T14:06:35-07:00</updated>
+  <updated>2014-08-10T14:28:04-07:00</updated>
   <id>http://guymorita.github.io//github/</id>
   <author>
     <name><![CDATA[Guy Morita]]></name>
@@ -25,15 +25,17 @@
 <h3>Debugging</h3>
 
 
-<p>My friend&rsquo;s dad who is also a software engineer was giving advice to my friend for which IDE/Editor to use and his advice was to pick the one that makes debugging the easiest. I didn&rsquo;t fully understand why that was the most important thing until I started to code in Xcode/Objective-C&hellip; cause it&rsquo;s a pain in the ass. At least to start. Xcode will print out huge 50 line errors and you will have no clue what went wrong. On top of that, the interface is extremely opinionated and you basically are forced into doing everything the Apple way. I battled with it for a solid month before I started to appreciate the design patterns and language syntax. I would never recommend it as a first language for someone. Ruby/Python are very similar and equally easy to debug. That said, I think Javascript is the easiest only because of the Chrome debugger (built into Google Chrome). Javascript as a language is fairly ugly and clumsy, but for a newbie developer, the Chrome debugger makes it very easy to step through and interact with your code.</p>
+<p>My friend&rsquo;s dad who is also a software engineer was giving advice to my friend for which IDE/Editor to use and his advice was to pick the one that makes debugging the easiest. I didn&rsquo;t fully understand why that was the most important thing until I started to code in Xcode/Objective-C&hellip; cause it&rsquo;s a pain in the ass. At least to start. Xcode will print out huge 50 line errors and you will have no clue what went wrong. On top of that, the interface is extremely opinionated and you basically are forced into doing everything the Apple way. I battled with it for a solid month before I started to appreciate the design patterns and language syntax. I would never recommend it as a first language for someone. Ruby/Python are very similar and equally easy to debug. That said, I think JS is the easiest only because of the Chrome debugger (built into Google Chrome). JS as a language is fairly ugly and clumsy, but for a newbie developer, the Chrome debugger makes it very easy to step through and interact with your code.</p>
 
 <h3>Purpose</h3>
 
 
-<p>A friend asked me yesterday which my favorite language is and my answer was that it depended on what I was building. I guess I don&rsquo;t have a favorite and I like them each for different reasons. Python is great for anything dealing with data related with libraries like NumPy/SciPy/Pandas making it very easy to munge, analyze and model data. Hipmunk&rsquo;s backend is built in Python and with many other startups such as Dropbox, Eventbrite, Mixpanel, Quora, Pinterest and Yelp to name a few.</p>
+<p>A friend asked me yesterday which my favorite language is and my answer was that it depended on what I was building. I guess I don&rsquo;t have a favorite and I like them each for different reasons. Python is great for anything dealing with data related with libraries like NumPy/SciPy/Pandas making it very easy to munge, analyze and model data. Hipmunk&rsquo;s backend is built in Python and with many other startups such as Dropbox, Eventbrite, Mixpanel, Quora, Pinterest and Yelp to name a few. JS is the only language that lives in the browser. Meaning that most special animations, logic and features that make a site &lsquo;feel&rsquo; nice are done in JS. While it&rsquo;s not the prettiest langauge, it&rsquo;s extremely powerful and has now moved to backend as well with Node.js. Which is nice because it means you can share code between the front and back. Objective-C is currently only used for creating OSX and iOS apps.</p>
 
-<p>Strict typing
-X-code (IDE) vs editor
+<h3>Strict typing</h3>
+
+
+<p>Xcode (IDE) vs editor
 Exceptions
 Debugging
 Intuitive
