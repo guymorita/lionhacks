@@ -4,7 +4,7 @@
   <title><![CDATA[Lionhacks]]></title>
   <link href="http://guymorita.github.io//github/atom.xml" rel="self"/>
   <link href="http://guymorita.github.io//github/"/>
-  <updated>2014-08-10T13:01:53-07:00</updated>
+  <updated>2014-08-10T13:19:21-07:00</updated>
   <id>http://guymorita.github.io//github/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Objective-C vs Javascript vs Python]]></title>
+    <link href="http://guymorita.github.io//github/2014/08/objective-c-vs-javascript-vs-python/"/>
+    <updated>2014-08-10T13:08:00-07:00</updated>
+    <id>http://guymorita.github.io//github/2014/08/objective-c-vs-javascript-vs-python</id>
+    <content type="html"><![CDATA[<p>Herro prease</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Learning how to code - Why?]]></title>
